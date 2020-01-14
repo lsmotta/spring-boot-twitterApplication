@@ -1,0 +1,17 @@
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\model\TweetCountByHourOfDayVO.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\repositories\UserRepository.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\entities\TagEntity.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\resources\UserResourceApi.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\model\TweetByTagByUserIdiomVO.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\repositories\TweetRepository.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\entities\TweetEntity.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\resources\TweetResourceApi.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\model\UserTopFiveWithMoreFollowersVO.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\entities\UserEntity.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\repositories\TagRepository.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\configurations\LoaderDB.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\Application.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\configurations\SwaggerConfig.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\filter\CorsFilter.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\resources\TagResourceApi.java
+C:\Users\leonardo.souza.motta\Desktop\Sens\program\sens-case-backend\src\main\java\com\sens\social\twetter\TwitterSearch.java
